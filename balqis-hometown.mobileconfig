@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>PayloadContent</key>
+    <array>
+        <dict>
+            <key>PayloadType</key>
+            <string>com.apple.wifi.managed</string>
+            <key>PayloadVersion</key>
+            <integer>1</integer>
+            <key>PayloadIdentifier</key>
+            <string>com.example.wifi</string>
+            <key>PayloadUUID</key>
+            <string>1a2663a4-a923-4fd4-9d45-72302ad6cd55</string>
+            <key>PayloadDisplayName</key>
+            <string>Wi-Fi Configuration</string>
+            <key>SSID_STR</key>
+            <string>_liana159@unifi</string>
+            <key>Password</key>
+            <string>lianacomel1963/string>
+            <key>EncryptionType</key>
+            <string>WPA</string>
+        </dict>
+    </array>
+    <key>PayloadDisplayName</key>
+    <string>Wi-Fi Configuration</string>
+    <key>PayloadIdentifier</key>
+    <string>com.example.wifi.profile</string>
+    <key>PayloadUUID</key>
+    <string>YYYYYYYY-YYYY-YYYY-YYYY-YYYYYYYYYYYY</string>
+    <key>PayloadVersion</key>
+    <integer>1</integer>
+</dict>
+</plist>
